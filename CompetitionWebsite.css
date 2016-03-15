@@ -1,0 +1,91 @@
+
+a{
+  color: white;
+}
+
+a:hover   
+  {color:rgba(96, 223, 12, 1); background-color:transparent;
+}
+
+.navtitle{
+  font-size: 20px;
+  font-family: 'Laila', serif;
+  display: inline;
+  padding: 0px 10px 0px 0px;
+}
+
+h1{
+  font-size: 80px;
+  font-family: 'Laila', serif;
+  font-style: bold;
+  color: black;
+  padding-top: 10px;
+}
+
+
+h2{
+  font-family: 'Laila', serif;
+  font-style: bold;
+  color: black;
+  padding-top: 10px;	
+  text-align: center;
+}
+
+
+ul{
+  padding: 10px;
+  background: black;
+}
+
+li span{
+	background: white;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: center-block;
+}
+
+.image {
+	position: relative;
+	width: 100%;
+}
+
+p{
+	color: white;
+	position: absolute;
+	top: 75%;
+	width: 100%;
+	font-family: 'Laila', serif;
+	font-size: 20px;
+	font-style: bold;
+}
+p span {
+background: rgb (0, 0, 0, 0);
+background-color: black;
+padding: 10px;
+}
+
+#social-buttons button {
+	color : white;
+	position:left;
+}
+.btn-twitter {
+	background-color : #00acee;
+	border-color: #009ad5;
+	position: absolute;
+	left: 40%;
+}
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+	position: absolute;
+	left: 48.5%;
+}
+.btn-pinterest {
+	background-color : #b62f26;
+	border-color : #b62f26;
+	position: absolute;
+	left: 59%;
+}
